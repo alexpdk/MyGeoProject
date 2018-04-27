@@ -1,0 +1,7 @@
+nb-configuration.xml
+
+target/
+
+src/main/webapp/static/node_modules
+src/main/webapp/static/build
+src/main/webapp/static/.idea
